@@ -1,0 +1,14 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+**Abstract**:
+
+Recent breakthroughs in machine learning have profoundly transformed the way we analyze, understand, and manipulate musical data. In particular, deep generative models are emerging as powerful tools to support and even, in some cases, extend creative practices. Despite their promise as a new generation of musical instruments, one of the main concerns for their adoption by artists and musicians is the nature of the control mechanisms they expose. On one hand, generative models for audio synthesis have proven effective for building controls around well-defined musical features such as notes, instrument labels, or even textual descriptions. On the other hand, advances in the field have made it possible to learn representation spaces that organize salient features of the data without supervision, providing control over elusive concepts such as timbre and style. While these representations enable novel forms of interaction with rich creative potential, their abstract nature makes integration into musical workflows difficult. The goal of this thesis is to reconcile these two paradigms, which we term as explicit and implicit controls, and to design audio synthesis tools that harness the creative potential of deep generative models while remaining practical for integration into musical practice.
+
+To this end, we propose modelling strategies that can combine these complementary forms of control. Before addressing this challenge, we begin with a systematic study of neural audio codecs, which serve as the building blocks of the generative models developed in this thesis. We identify key design choices that shape both audio quality and the controllability of models trained on their latent spaces, and propose several enhancements to existing codecs. Then, we explore the supervised setting where explicit features are known, and propose two methods to learn complementary implicit spaces. We then introduce \textsc{AFTER}, a framework that tackles the unsupervised case, where data is provided without aligned explicit controls. As a main application of this framework, we show that we can perform realistic timbre transfer with continuous timbre control within a large set of instruments, while maintaining precise control over pitch and rhythm. Finally, we adapt our models for real-time use by developing efficient streaming implementations of diffusion models. Our streaming variant of \textsc{AFTER} runs on standard consumer laptops. To facilitate integration into existing music production setups, we design an intuitive interface that embeds our model within digital audio workstations. We conclude by presenting several artistic collaborations carried out during this thesis, showcasing their creative potential and practical utility.
+
+
