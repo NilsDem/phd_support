@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Separating explicit and implicit control for expressive neural audio
-synthesis
+title: Separating explicit and implicit control for expressive neural audio synthesis
 email: demerle@ircam.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Support webpage for the thesis "Separating explicit and implicit control for expressive neural audio synthesis"
