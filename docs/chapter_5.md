@@ -7,7 +7,7 @@ permalink: /chapter_5/
 # AFTER : Audio feature transfer and exploration in real-time
 
 <div style="text-align: center; margin-bottom: 30px;"> 
-  <img src="assets/after.jpg" 
+  <img src="/phd_support/docs/assets/after.jpg" 
        alt="Chapter 5 Banner" 
        style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.2);" />
 </div>
@@ -132,6 +132,94 @@ permalink: /chapter_5/
       <audio src="/phd_support/docs/assets/samples/chapter5/ssl/example_87/audio21.wav" controls style="width: 180px"></audio>
     </td>
   </tr>
+<!-- Example 63 -->
+  <tr>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_63/audio1.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_63/audio2.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_63/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_63/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_63/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_63/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+  </tr>
+
+  <!-- Example 66 -->
+  <tr>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_66/audio1.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_66/audio2.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_66/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_66/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_66/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_66/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+  </tr>
+
+  <!-- Example 69 -->
+  <tr>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_69/audio1.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_69/audio2.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_69/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_69/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_69/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_69/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+  </tr>
+
+  <!-- Example 73 -->
+  <tr>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_73/audio1.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_73/audio2.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_73/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/nossl/real/example_73/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+    <td>
+      <div><b>Audio 1 → 2</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_73/audio12.wav" controls style="width: 180px"></audio>
+      <div><b>Audio 2 → 1</b></div>
+      <audio src="/phd_support/docs/assets/samples/chapter5/ssl/real/example_73/audio21.wav" controls style="width: 180px"></audio>
+    </td>
+  </tr>
+  
 
   </tbody>
 </table>
