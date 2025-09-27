@@ -8,9 +8,9 @@ permalink: /chapter_4/
 
 <div style="text-align: center"> 
   <h1>Supervised separation of explicit and implicit controls</h1>
-  Code for Raving Fader <a href="https://github.com/neurorave/neurorave/tree/maintree/main">here</a>.  
-  Code for Platune <a href="https://github.com/acids-ircam/platune/">here</a>.
 </div>
+
+Codes for RavingFader and Platune are available [here](https://github.com/neurorave/neurorave/tree/maintree/main) and [here](https://github.com/acids-ircam/platune/).
 
 
 <div style="text-align: center; margin-bottom: 30px;"> 
